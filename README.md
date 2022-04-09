@@ -1,6 +1,6 @@
 # The Luhn Algorithm
 
-[ENTERS A CREDIT CARD IN THIS FORM](https://storied-zabaione-5609ce.netlify.app/)
+[CLICK HERE TO ENTERS A CREDIT CARD](https://storied-zabaione-5609ce.netlify.app/)
 
 ### Credit card numbers can be validated with a process called the Luhn algorithm. The Luhn algorithm works like this:
 
